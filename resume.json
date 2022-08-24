@@ -99,14 +99,14 @@
       "project_role": "全栈开发工程师",
       "project_time": "2021.01 - 2022.01",
       "project_desc": "蜜蜂词汇营以AI智能系统为核心，搭载主流的教材内容，实现与教材同步的辅助学习，让学生从繁多的教辅资料中解脱出来，妥妥地做到了“便捷”。",
-      "project_content": "\n1. 使用Taro + React +Mbox + Taro UI + Typescrip开发前端;\n2. 使用Nestjs + Typeorm + Mongoose + Typescrip开发后端服务;\n3. 使用golang和python开发服务端工具;\n4. 配合测试人员修改测试中遇到的bug。"
+      "project_content": "\n1. 使用Taro + React +Mbox + Taro UI + Typescript开发前端;\n2. 使用Nestjs + Typeorm + Mongoose + Typescript开发后端服务;\n3. 使用golang和python开发服务端工具;\n4. 配合测试人员修改测试中遇到的bug。"
     },
     {
       "project_name": "锂市民电踏车",
       "project_role": "前端负责人",
       "project_time": "2017.11 - 2021.01",
       "project_desc": "锂市民是一款电动车租车软件，用户能够在手机地图上查看电动车所在的位置，多种车型能够提前预定避免无车可用，租金实惠一元就能够畅快骑行，支持临时锁为你的出行带来便利!",
-      "project_content": "\n1. 使用Taro + Mbox + Taro UI + Typescrip开发;\n2. 项目从0到1的框架设计和开发;\n3. 产品体验精雕细琢的打磨;\n4. 建立稳定性保障机制。"
+      "project_content": "\n1. 使用Taro + Mbox + Taro UI + Typescript开发;\n2. 项目从0到1的框架设计和开发;\n3. 产品体验精雕细琢的打磨;\n4. 建立稳定性保障机制。"
     }
   ],
   "workList": [],
@@ -214,14 +214,14 @@
           "project_role": "Full Stack Engineer",
           "project_time": "2021.01 - 2022.01",
           "project_desc": "With AI intelligent system as the core, Bee Glossary Camp is equipped with mainstream textbook content to achieve synchronized learning with the textbook, freeing students from a wide range of teaching aids and making it properly convenient.",
-          "project_content": "\n1. Front-end development using Taro + React + Mbox + Taro UI + Typescrip.\n2. Develop backend services using Nestjs + Typeorm + Mongoose + Typescrip.\n3. Developing server-side tools with golang and python.\n4. Cooperate with testers to modify the bugs encountered in testing."
+          "project_content": "\n1. Front-end development using Taro + React + Mbox + Taro UI + Typescript.\n2. Develop backend services using Nestjs + Typeorm + Mongoose + Typescript.\n3. Developing server-side tools with golang and python.\n4. Cooperate with testers to modify the bugs encountered in testing."
         },
         {
           "project_name": "Lithium Citizen Bicycle",
           "project_role": "Front-end Leader",
           "project_time": "2017.11 - 2021.01",
           "project_desc": "Lithium Citizen is an electric car rental software, users can view the location of the electric car on the mobile map, a variety of models can be booked in advance to avoid no car available, affordable rent for a dollar can be a smooth ride, support temporary lock to bring you the convenience of travel!",
-          "project_content": "\n1. Developed with Taro + Mbox + Taro UI + Typescrip.\n2. Project design and development from 0 to 1 framework.\n3. Product experience finely polished.\n4. Establish a stability guarantee mechanism."
+          "project_content": "\n1. Developed with Taro + Mbox + Taro UI + Typescript.\n2. Project design and development from 0 to 1 framework.\n3. Product experience finely polished.\n4. Establish a stability guarantee mechanism."
         }
       ],
       "workList": [],
