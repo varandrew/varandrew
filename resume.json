@@ -1,237 +1,123 @@
 {
-  "titleNameMap": {
-    "educationList": "Educational background",
-    "workExpList": "Work experience",
-    "projectList": "Project experience",
-    "skillList": "Personal skills",
-    "awardList": "More informations",
-    "workList": "Personal works",
-    "aboutme": "Introduction"
-  },
-  "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/23582216?s=400&u=f0d68e8b0eba0b39766714ca07064af03d0962e2&v=4",
-    "hidden": false
-  },
-  "profile": {
-    "name": "Qiuji Chen",
-    "email": "varandrewchen@gmail.com",
-    "mobile": "17621145080",
-    "github": "https://github.com/varandrew",
-    "zhihu": "",
-    "workExpYear": "5年",
-    "workPlace": "江苏苏州",
-    "positionTitle": "全栈开发工程师"
-  },
-  "educationList": [
-    {
-      "edu_time": [
-        "2021.08.06",
-        " 2022.07.25"
-      ],
-      "school": "马德里康普斯顿大学",
-      "major": "物联网与大数据分析(硕士)",
-      "dataIndex": 1
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
     },
-    {
-      "edu_time": [
-        "2017.09.01",
-        " 2022.07.15"
-      ],
-      "school": "西北工业大学",
-      "major": "计算机科学与技术(本科)"
-    }
-  ],
-  "awardList": [
-    {
-      "award_time": "Website",
-      "award_info": "https://resume.varandrew.com",
-      "dataIndex": 0
-    }
-  ],
-  "workExpList": [
-    {
-      "work_time": [
-        "2021.01",
-        "2022.01"
-      ],
-      "company_name": "无锡火星教育科技有限公司",
-      "department_name": "全栈开发工程师",
-      "work_desc": "1. 负责平台相关功能模块的前后端开发、单元测试和集成测试，进行日常的CodeReview;\n2. 从概念到部署，根据产品需求，实施了网站、移动应用程序和小程序;\n3. 评估用户体验和用户界面设计的技术可行性;\n4. 与产品团队成员合作，实施新的功能开发;\n5. 负责产品工具在使用中的问题处理，优化性能和体验。",
-      "dataIndex": 0
-    },
-    {
-      "work_time": [
-        "2017.11",
-        "2021.01"
-      ],
-      "company_name": "无锡锂想出行科技有限公司",
-      "department_name": "前端开发工程师",
-      "work_desc": "1. 使用Vue/React构建稳定和可维护的代码库;\n2. 负责前端团队的需求调研，技术选型和 CodeReview；\n3. 负责前端页面技术难点攻克，指导以及协助其它同事解决各项目的技术难题；\n4. 持续地优化前端体验和页面响应速度，并保证兼容性和执行效率；\n5. 根据产品需求和 UI 效果图完成产品前端展示效果和交互功能。",
-      "dataIndex": 1
-    }
-  ],
-  "skillList": [
-    {
-      "skill_name": "HTML / CSS / Sass/ Less",
-      "skill_desc": "",
-      "skill_level": 89,
-      "dataIndex": 0
-    },
-    {
-      "skill_name": "TypeScript / JavaScript",
-      "skill_level": 90
-    },
-    {
-      "skill_name": "Vue/ React ",
-      "skill_desc": "有复杂的前端项目和组件库开发经验。",
-      "skill_level": 80,
-      "dataIndex": 2
-    },
-    {
-      "skill_name": "Nodejs / Golang",
-      "skill_level": 80,
-      "skill_desc": "使用Nestjs或Gin框架构建后台服务，数据库使用Mysql、Postgresql和Mongo，熟悉Docker和K8s。"
-    }
-  ],
-  "projectList": [
-    {
-      "project_name": "蜜蜂词汇营",
-      "project_role": "全栈开发工程师",
-      "project_time": "2021.01 - 2022.01",
-      "project_desc": "蜜蜂词汇营以AI智能系统为核心，搭载主流的教材内容，实现与教材同步的辅助学习，让学生从繁多的教辅资料中解脱出来，妥妥地做到了“便捷”。",
-      "project_content": "\n1. 使用Taro + React +Mbox + Taro UI + Typescript开发前端;\n2. 使用Nestjs + Typeorm + Mongoose + Typescript开发后端服务;\n3. 使用golang和python开发服务端工具;\n4. 配合测试人员修改测试中遇到的bug。"
-    },
-    {
-      "project_name": "锂市民电踏车",
-      "project_role": "前端负责人",
-      "project_time": "2017.11 - 2021.01",
-      "project_desc": "锂市民是一款电动车租车软件，用户能够在手机地图上查看电动车所在的位置，多种车型能够提前预定避免无车可用，租金实惠一元就能够畅快骑行，支持临时锁为你的出行带来便利!",
-      "project_content": "\n1. 使用Taro + Mbox + Taro UI + Typescript开发;\n2. 项目从0到1的框架设计和开发;\n3. 产品体验精雕细琢的打磨;\n4. 建立稳定性保障机制。"
-    }
-  ],
-  "workList": [],
-  "aboutme": {
-    "aboutme_desc": "🌱自驱型前端工程师，五年年多复杂产品开发经验。精通HTML、CSS、JavaScript、Typescript、Vue、React、Golang、Nodejs；再加上现代的库和框架\n😈 对待工作认真，善于沟通，能够灵活处理工作中的突发事件。有良好的代码规范，喜欢了解前端的新技术，新思想，新框架。"
-  },
-  "locales": {
-    "en_US": {
-      "titleNameMap": {
-        "educationList": "Educational background",
-        "workExpList": "Work experience",
-        "projectList": "Project experience",
-        "skillList": "Personal skills",
-        "awardList": "More informations",
-        "workList": "Personal works",
-        "aboutme": "Introduction"
-      },
-      "avatar": {
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/23582216?s=400&u=f0d68e8b0eba0b39766714ca07064af03d0962e2&v=4",
         "hidden": false
-      },
-      "profile": {
+    },
+    "profile": {
         "name": "Qiuji Chen",
         "email": "varandrewchen@gmail.com",
         "mobile": "17621145080",
         "github": "https://github.com/varandrew",
         "zhihu": "",
-        "workExpYear": "Five Years",
-        "workPlace": "Jiangsu Suzhou",
-        "positionTitle": "Full Stack Engineer"
-      },
-      "educationList": [
+        "workExpYear": "8年",
+        "workPlace": "远程或者江苏苏州",
+        "positionTitle": "全栈开发工程师"
+    },
+    "educationList": [
         {
-          "edu_time": [
-            "2021.08.06",
-            " 2022.07.25"
-          ],
-          "school": "Universidad Complutense de Madrid",
-          "major": "Interet of Things and Data Analytics (Master Diploma)",
-          "dataIndex": 1
+            "edu_time": [
+                "2021.08.06",
+                " 2022.07.25"
+            ],
+            "school": "马德里康普斯顿大学",
+            "major": "物联网与大数据分析",
+            "academic_degree": "硕士",
+            "dataIndex": 0
         },
         {
-          "edu_time": [
-            "2017.09.01",
-            " 2022.07.15"
-          ],
-          "school": "Northwestern Polytechnical University",
-          "major": "Computer Science and Technology (B.S.)"
+            "edu_time": [
+                "2017.09.01",
+                " 2022.07.15"
+            ],
+            "school": "西北工业大学",
+            "major": "计算机科学与技术",
+            "academic_degree": "本科",
+            "dataIndex": 1
         }
-      ],
-      "awardList": [
+    ],
+    "awardList": [],
+    "workExpList": [
         {
-          "award_time": "Website",
-          "award_info": "https://resume.varandrew.com",
-          "dataIndex": 0
+            "company_name": "Integem, Inc.",
+            "department_name": "全栈开发工程师",
+            "work_time": [
+                "2022.09",
+                "2025.09"
+            ],
+            "work_desc": "1. 全栈开发与交付：基于 Electron + Node.js + Vue/React + Golang负责核心功能迭代与稳定性维护，优化打包、自动更新与错误上报；完善 CI/CD 发布流程，提升版本交付效率与质量，确保跨平台一致性与可用性。\n2. AI 能力集成：接入 OpenAI API，落地智能聊天、语音识别、情感识别等多模态功能；实现背景移除与图片内容总结，构建本地/私有化推理服务，降低延迟、提升数据安全与成本可控性。\n3. IoT 配套平台与工具：面向教学/课程场景，设计并交付蓝牙与 Wi‑Fi 设备的接入、配网、状态监测与远程控制；封装设备管理与通信协议，提供统一 SDK/服务接口，增强设备接入稳定性与扩展性。\n4.可视化编程与低门槛创作：设计并实现类似 Scratch 的积木式逻辑编排模块，支持事件驱动、条件与循环等逻辑块，替代代码式编程，显著降低 K12 用户（美国小朋友）使用门槛，提升课程与教学场景的创作效率。",
+            "dataIndex": 0
+        },
+        {
+            "company_name": "无锡火星教育科技有限公司",
+            "department_name": "Nodejs开发工程师",
+            "work_time": [
+                "2021.01",
+                "2022.01"
+            ],
+            "work_desc": "1. 负责平台相关功能模块的前后端开发、单元测试和集成测试，进行日常的CodeReview;\n2. 从概念到部署，根据产品需求，实施了网站、移动应用程序和小程序;\n3. 评估用户体验和用户界面设计的技术可行性;\n4. 与产品团队成员合作，实施新的功能开发;\n5. 负责产品工具在使用中的问题处理，优化性能和体验。",
+            "dataIndex": 1
+        },
+        {
+            "company_name": "无锡锂想出行科技有限公司",
+            "department_name": "前端负责人",
+            "work_time": [
+                "2017.11",
+                "2021.01"
+            ],
+            "work_desc": "1. 使用Vue/React构建稳定和可维护的代码库;\n2. 负责前端团队的需求调研，技术选型和 CodeReview；\n3. 负责前端页面技术难点攻克，指导以及协助其它同事解决各项目的技术难题；\n4. 持续地优化前端体验和页面响应速度，并保证兼容性和执行效率；\n5. 根据产品需求和 UI 效果图完成产品前端展示效果和交互功能。",
+            "dataIndex": 2
         }
-      ],
-      "workExpList": [
+    ],
+    "skillList": [],
+    "projectList": [
         {
-          "work_time": [
-            "2021.01",
-            "2022.01"
-          ],
-          "company_name": "Mars Education Technology(Wuxi) Co.",
-          "department_name": "Full Stack Engineer",
-          "work_desc": "• Responsible for front-end and back-end development, unit testing and integration testing of platform-related functional modules, and conducting daily CodeReview.\n• Implemented websites, mobile applications, and wechat mini program from concept through deployment.\n• Assessed UX and UI designs for technical feasibility.\n• Collaborated with product team members to implement new feature developments.\n• Responsible for handling issues in the use of product tools and optimizing performance and experience.",
-          "dataIndex": 0
+            "project_name": "iCreator & iCreator G2",
+            "project_role": "全栈开发工程师",
+            "project_time": "2022.09 - 2025.09",
+            "project_desc": "iCreator 是一款创新型全息增强现实（AR）内容创作工具，主打“零代码”拖拽式操作，极大地降低了 AR 设计的门槛。它为用户提供了清晰、直观的编辑界面，内置丰富的图库、音视频等资源，并支持场景（stage）、道具、过渡动画等多种互动元素的可视化管理。用户可以像搭积木一样，将媒体资源拖放进场景，通过分阶段和转场的故事板方式，快速构建交互式虚拟故事或教学内容。",
+            "project_content": "\n1. 桌面端架构与维护：基于 Electron + Node.js + Vue 负责桌面端核心功能开发与持续维护，优化打包与更新流程，提升应用稳定性与启动性能。\n2. 新架构重构：主导将核心Electron版本从5.x升级到37.0，前端从 Vue2 迁移至 Vue3，并采用 Vite 构建工具重构 iCreator G2；建立模块化与组件化规范，显著降低构建时长、提升开发效率与代码可维护性。\n3. AI 能力集成：接入 OpenAI API，实现智能聊天、语音识别与情感识别等功能，为创作流程提供辅助与增强。集成背景移除（图像抠图）与图片内容总结等能力，构建本地/私有化推理服务，提高处理效率与数据安全性。\n4. 可视化编程替代方案：设计并实现类似 Scratch 的积木式逻辑编排模块，替代原有代码编程方式；支持事件驱动与条件/循环等逻辑块，降低美国小朋友的使用门槛。",
+            "dataIndex": 0
         },
         {
-          "work_time": [
-            "2017.11",
-            "2021.01"
-          ],
-          "company_name": "LiXiangChuXing Technology(Wuxi) Co.,Ltd.",
-          "department_name": "Front-end Engineer",
-          "work_desc": "• Building stable and maintainable codebases using Vue/React.\n• Responsible for front-end team requirements research, technology selection and CodeReview.\n• Collaborating with designers to ensure designs were efficient and technically sound. Creating modular, responsive templates using modern CSS techniques and JavaScript libraries.",
-          "dataIndex": 1
+            "project_time": "2022.09 - 2025.09",
+            "project_name": "iPlayer",
+            "project_role": "全栈开发工程师",
+            "project_desc": "iPlayer是一款创新全息增强现实（AR）交互平台，其核心目标是让用户以最自然的方式与虚拟环境互动。它支持通过肢体动作和手势，无需穿戴额外设备即可与全息AR程序进行交流。iPlayer能实时将用户的物理形象无缝融入虚拟场景，让用户充分沉浸于其中，大幅提升互动感和参与感。",
+            "project_content": "\n1. 桌面端开发与维护：基于 Electron + Node.js + React 负责桌面端核心功能迭代与稳定性维护；优化打包、自动更新与错误上报体系，提升产品可用性。\n2. AI 功能集成：接入 OpenAI API，实现智能聊天、语音识别与情感识别，增强用户互动与内容创作辅助；完善多模态数据处理流程（语音/文本/情绪）。\n3. 后端逻辑重构与跨平台支持：重构核心执行链路，实现 macOS 版本可以本地播放的 iPlayer；统一跨平台接口与依赖管理，提升研发与发布效率。\n将原“JS→C++→Python（共享内存通信）”的执行链路替换为自研 js-python-bridge（基于 pipe 的直接调用），显著降低调用开销与复杂度。\n4. 物联网配套平台与工具：为课程/教学场景开发 IoT 配套工具与平台，支持蓝牙与 Wi‑Fi 设备的接入、配网、状态监测与远程控制。\n封装设备管理与通信协议，提供统一 SDK/服务接口，提升设备接入的稳定性与可扩展性。\n",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "蜜蜂词汇营",
+            "project_role": "Nodejs开发工程师",
+            "project_time": "2021.01 - 2022.01",
+            "project_desc": "蜜蜂词汇营以AI智能系统为核心，搭载主流的教材内容，实现与教材同步的辅助学习，让学生从繁多的教辅资料中解脱出来，妥妥地做到了“便捷”。",
+            "project_content": "\n1. 使用Taro + React +Mbox + Taro UI + Typescript开发前端;\n2. 使用Nestjs + Typeorm + Mongoose + Typescript开发后端服务;\n3. 使用golang和python开发服务端工具;\n4. 配合测试人员修改测试中遇到的bug。",
+            "dataIndex": 1
+        },
+        {
+            "project_name": "锂市民电踏车",
+            "project_role": "前端负责人",
+            "project_time": "2017.11 - 2021.01",
+            "project_desc": "锂市民是一款电动车租车软件，用户能够在手机地图上查看电动车所在的位置，多种车型能够提前预定避免无车可用，租金实惠一元就能够畅快骑行，支持临时锁为你的出行带来便利!",
+            "project_content": "\n1. 使用Taro + Mbox + Taro UI + Typescript开发;\n2. 项目从0到1的框架设计和开发;\n3. 产品体验精雕细琢的打磨;\n4. 建立稳定性保障机制。",
+            "dataIndex": 2
         }
-      ],
-      "skillList": [
-        {
-          "skill_name": "HTML / CSS / Sass/ Less",
-          "skill_desc": "",
-          "skill_level": 89,
-          "dataIndex": 0
-        },
-        {
-          "skill_name": "TypeScript / JavaScript",
-          "skill_level": 90
-        },
-        {
-          "skill_name": "Vue/ React ",
-          "skill_desc": "Experience with complex front-end projects and component library development",
-          "skill_level": 80,
-          "dataIndex": 2
-        },
-        {
-          "skill_name": "Nodejs / Golang",
-          "skill_level": 80,
-          "skill_desc": "Use Nestjs or Gin framework to build backend services, database using Mysql, Postgresql and Mongo, familiar with Docker and K8s."
-        }
-      ],
-      "projectList": [
-        {
-          "project_name": "Bee Glossary Camp",
-          "project_role": "Full Stack Engineer",
-          "project_time": "2021.01 - 2022.01",
-          "project_desc": "With AI intelligent system as the core, Bee Glossary Camp is equipped with mainstream textbook content to achieve synchronized learning with the textbook, freeing students from a wide range of teaching aids and making it properly convenient.",
-          "project_content": "\n1. Front-end development using Taro + React + Mbox + Taro UI + Typescript.\n2. Develop backend services using Nestjs + Typeorm + Mongoose + Typescript.\n3. Developing server-side tools with golang and python.\n4. Cooperate with testers to modify the bugs encountered in testing."
-        },
-        {
-          "project_name": "Lithium Citizen Bicycle",
-          "project_role": "Front-end Leader",
-          "project_time": "2017.11 - 2021.01",
-          "project_desc": "Lithium Citizen is an electric car rental software, users can view the location of the electric car on the mobile map, a variety of models can be booked in advance to avoid no car available, affordable rent for a dollar can be a smooth ride, support temporary lock to bring you the convenience of travel!",
-          "project_content": "\n1. Developed with Taro + Mbox + Taro UI + Typescript.\n2. Project design and development from 0 to 1 framework.\n3. Product experience finely polished.\n4. Establish a stability guarantee mechanism."
-        }
-      ],
-      "workList": [],
-      "aboutme": {
-        "aboutme_desc": "🌱Innovative Front End Developer with 5 years experience building and maintaining responsive websites in the IoT industry. Proficient in HTML, CSS, JavaScript, Typescript, Vue, React, Golang, Nodejs; plus modern libraries and frameworks.\n😈 Have good code specification and like to understand new technologies, ideas and frameworks of front-end."
-      }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "🌱自驱型前端工程师，八年年多复杂产品开发经验。精通HTML、CSS、JavaScript、Typescript、Vue、React、Nodejs、Electron、Python、Golang；再加上现代的库和框架\n😈 对待工作认真，善于沟通，能够灵活处理工作中的突发事件。有良好的代码规范，喜欢了解前端的新技术，新思想，新框架。"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
     }
-  },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
-  }
 }
