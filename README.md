@@ -1,84 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+theseusv+%F0%9F%91%8B;Full+Stack+Developer+%26+DevOps+Engineer" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <h1>varandrew</h1>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=varandrew&color=blueviolet&style=flat-square)](https://github.com/varandrew)
-  [![GitHub followers](https://img.shields.io/github/followers/varandrew?label=Followers&style=flat-square&color=blueviolet)](https://github.com/varandrew)
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Builder+of+things+in+code;Vancouver-based+developer;Active+since+2016&font=Fira+Code&center=true&width=600&color=00E6B8" alt="Typing SVG showcasing developer identity" />
   
+  <p><strong>Just a tech building in public.</strong></p>
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## About Me
 
-### 💻 Frontend Development
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Based in **Vancouver, B.C.**, I've been active on GitHub since 2016, focusing on hands-on building through code. With 29 public repositories and consistent activity—62 active days in the last 90—my work centers on practical development and iteration.
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+I operate primarily as a builder, with the majority of contributions coming through commits. My public footprint emphasizes core technologies including **Jupyter Notebook**, **Vue**, **JavaScript**, **TypeScript**, **Go**, **Python**, **CSS**, and static site tools like **Hexo**.
 
-### 🗄️ Database & Cache
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### 🛠️ DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Blog**: [resume.varandrew.com](https://resume.varandrew.com/)
+- **Current focus**: Committed, iterative development across data-oriented and web projects.
 
 ---
 
-## 📊 GitHub Analytics
+## Tech Stack
+
+### Core Languages & Runtimes
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend & Frameworks
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tooling & Ecosystem
+![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varandrew&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varandrew&theme=tokyonight" alt="Top Languages by Repo" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=varandrew&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varandrew&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://readme.u14.app/api/github/stats?userId=Zd3Y4jvCP4tgznF4pPkKoEE57ftvh6XD" alt="GitHub Stats for varandrew" width="48%" />
+  <img src="https://readme.u14.app/api/github/top-langs?userId=Zd3Y4jvCP4tgznF4pPkKoEE57ftvh6XD" alt="Top Languages for varandrew" width="48%" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varandrew&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varandrew&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats for varandrew" />
 </div>
+
+<p align="center">
+  <em>Consistent builder mode with heavy emphasis on commits across active public repositories.</em>
+</p>
 
 ---
 
-## 📫 Connect with Me
-
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varandrewchen@gmail.com)
-  [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.varandrew.com)
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varandrew&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph for varandrew" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=varandrew&label=Profile%20Views&color=00E6B8&style=flat" alt="Profile views counter for varandrew" />
 </div>
+
+**Vancouver, B.C. • Active builder since 2016**
